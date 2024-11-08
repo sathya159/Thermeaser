@@ -68,15 +68,16 @@ ThermEaser’s software comprises initialization, sensor monitoring, Bluetooth c
 See the flowchart in Appendix C for a detailed view of the system’s software workflow.
 
 ## User Guide
+
 1. **Connect to Bluetooth**: Open the ArduinoBlue app and connect to the device.
 2. **Select Mode**: Choose between Cold and Hot massage modes.
 3. **Adjust Settings**: Use sliders for speed and text input for temperature (Hot mode only).
 4. **Monitor Alerts**: The system will display alerts on the LCD if safety thresholds are reached.
 
-<img src="images/app_uijpg.jpg" alt="User Guide" width="150"/> <!-- Update path with actual image location -->
-
-<img src="images/app_ui2.jpg" alt="User Guide" width="150"/>) <!-- Update path with actual image location -->
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/app_uijpg.jpg" alt="User Guide" width="300"/>
+  <img src="images/app_ui2.jpg" alt="App Interface" width="300"/>
+</div>
 ## Demonstration Video
 Watch a [video demonstration of ThermEaser in action](https://www.youtube.com/watch?v=-fOEsNSXCSk) to see how the device operates, including Bluetooth control, massage modes, and temperature safety features.
 
