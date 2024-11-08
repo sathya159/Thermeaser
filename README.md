@@ -76,7 +76,7 @@ See the flowchart in Appendix C for a detailed view of the system’s software w
 
 <div style="display: flex; justify-content: space-between;">
   <img src="images/app_ui2.jpg" alt="User Guide" width="200"/>
-  <img src="images/app_uijpg.jp" alt="App Interface" width="200"/>
+  <img src="images/app_uijpg.jpg" alt="App Interface" width="200"/>
 </div>
 ## Demonstration Video
 Watch a [video demonstration of ThermEaser in action](https://www.youtube.com/watch?v=-fOEsNSXCSk) to see how the device operates, including Bluetooth control, massage modes, and temperature safety features.
