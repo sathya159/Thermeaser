@@ -8,9 +8,11 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Components Used](#components-used)
+- [3D Printed Design](#3d-printed-design)
 - [Circuit Design](#circuit-design)
 - [Software Implementation](#software-implementation)
 - [User Guide](#user-guide)
+- [Demonstration Video](#demonstration-video)
 - [Experimental Results](#experimental-results)
 - [Future Enhancements](#future-enhancements)
 - [Lessons Learned](#lessons-learned)
@@ -40,6 +42,11 @@ The **ThermEaser** is designed for individuals suffering from muscle tension, of
 
 For a full list of materials, refer to Appendix A in the project documentation.
 
+## 3D Printed Design
+To enhance the massaging effectiveness, we experimented with various designs and determined that a 3D printed part provided a superior massage sensation compared to other prototypes. The 3D printed structure allowed for more effective transmission of the massage force, improving user comfort and satisfaction. This design choice highlights the adaptability of ThermEaser in delivering optimized performance.
+
+![3D Printed Part](images/3d_printed_part.png)  <!-- Update path with actual image location -->
+
 ## Circuit Design
 The **ThermEaser** circuit integrates multiple sensors and actuators. Key connections:
 - Temperature sensor connected to analog pin A5.
@@ -47,6 +54,8 @@ The **ThermEaser** circuit integrates multiple sensors and actuators. Key connec
 - Motor control on PWM pin D9 for variable speed.
 - Overheating alarm using a buzzer at pin D8.
 - LED for heating status on pin D13.
+
+![Circuit Design](images/circuit_design.png) <!-- Update path with actual image location -->
 
 Refer to the circuit schematic in the `docs` folder for detailed connections.
 
@@ -65,6 +74,16 @@ See the flowchart in Appendix C for a detailed view of the system’s software w
 2. **Select Mode**: Choose between Cold and Hot massage modes.
 3. **Adjust Settings**: Use sliders for speed and text input for temperature (Hot mode only).
 4. **Monitor Alerts**: The system will display alerts on the LCD if safety thresholds are reached.
+
+![User Guide](images/user_guide.png) <!-- Update path with actual image location -->
+
+### App Interface
+Here’s a snapshot of the Bluetooth app interface used to control ThermEaser:
+
+![App Interface](images/app_interface.png) <!-- Update path with actual image location -->
+
+## Demonstration Video
+Watch a [video demonstration of ThermEaser in action](https://www.youtube.com/watch?v=-fOEsNSXCSk) to see how the device operates, including Bluetooth control, massage modes, and temperature safety features.
 
 ## Experimental Results
 ThermEaser was rigorously tested to ensure functionality, reliability, and user safety:
