@@ -77,9 +77,6 @@ See the flowchart in Appendix C for a detailed view of the system’s software w
 
 ![User Guide](images/user_guide.png) <!-- Update path with actual image location -->
 
-### App Interface
-Here’s a snapshot of the Bluetooth app interface used to control ThermEaser:
-
 ![App Interface](images/app_interface.png) <!-- Update path with actual image location -->
 
 ## Demonstration Video
