@@ -73,9 +73,9 @@ See the flowchart in Appendix C for a detailed view of the system’s software w
 3. **Adjust Settings**: Use sliders for speed and text input for temperature (Hot mode only).
 4. **Monitor Alerts**: The system will display alerts on the LCD if safety thresholds are reached.
 
-![User Guide](images/app_ui.png) <!-- Update path with actual image location -->
+![User Guide](images/app_ui.jpg) <!-- Update path with actual image location -->
 
-![App Interface](images/app_ui2.png) <!-- Update path with actual image location -->
+![App Interface](images/app_ui2.jpg) <!-- Update path with actual image location -->
 
 ## Demonstration Video
 Watch a [video demonstration of ThermEaser in action](https://www.youtube.com/watch?v=-fOEsNSXCSk) to see how the device operates, including Bluetooth control, massage modes, and temperature safety features.
