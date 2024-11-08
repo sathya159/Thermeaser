@@ -45,7 +45,7 @@ For a full list of materials, refer to Appendix A in the project documentation.
 ## 3D Printed Design
 To enhance the massaging effectiveness, we experimented with various designs and determined that a 3D printed part provided a superior massage sensation compared to other prototypes. The 3D printed structure allowed for more effective transmission of the massage force, improving user comfort and satisfaction. This design choice highlights the adaptability of ThermEaser in delivering optimized performance.
 
-![3D Printed Part](images/3d_printed.png)  <!-- Update path with actual image location -->
+![3D Printed Part](images/3d print.png)  <!-- Update path with actual image location -->
 
 ## Circuit Design
 The **ThermEaser** circuit integrates multiple sensors and actuators. Key connections:
@@ -73,7 +73,7 @@ See the flowchart in Appendix C for a detailed view of the system’s software w
 3. **Adjust Settings**: Use sliders for speed and text input for temperature (Hot mode only).
 4. **Monitor Alerts**: The system will display alerts on the LCD if safety thresholds are reached.
 
-![User Guide](images/app_ui2.png) <!-- Update path with actual image location -->
+![User Guide](images/app_ui.png) <!-- Update path with actual image location -->
 
 ![App Interface](images/app_ui2.png) <!-- Update path with actual image location -->
 
